@@ -30,7 +30,7 @@ You can try program with heroku link:
 https://finalpython2.herokuapp.com/
 
 # Examples
-You need to upload image and it will save:
+You need to upload image and image will be saved and given a result of Keras evaluating:
 ![image](https://user-images.githubusercontent.com/77801087/156753306-c6a7d325-1e93-4827-a5ea-bfc7ef6bac14.png)
 ![image](https://user-images.githubusercontent.com/77801087/156753002-16dfb53d-098a-4379-9360-93284925cb34.png)
 and file will be saved in Postgresql:
