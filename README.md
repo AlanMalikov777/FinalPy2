@@ -1,5 +1,5 @@
 # FinalPy2
-The program takes an photo and Keras AI provide the name of the thing in the picture.
+The program takes an photo and Keras,API designed for human being, provide the name of the thing in the picture.
 # Installation
 You need to download libs
 ``` bash
