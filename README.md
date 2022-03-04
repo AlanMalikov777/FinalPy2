@@ -21,6 +21,10 @@ python manage.py migrate
 python manage.py runserver
 ```
 After that you need to go by link that was given by program.
+You can try program with heroku link:
+
+https://finalpython2.herokuapp.com/
+
 # Examples
 You need to upload image and it will save:
 ![image](https://user-images.githubusercontent.com/77801087/156753306-c6a7d325-1e93-4827-a5ea-bfc7ef6bac14.png)
@@ -28,9 +32,6 @@ You need to upload image and it will save:
 and file will be saved in Postgresql:
 ![image](https://user-images.githubusercontent.com/77801087/156753136-4f1ff675-0769-4467-b381-fd33ea312447.png)
 
-so you can use link heroku:
-
-https://finalpython2.herokuapp.com/
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
