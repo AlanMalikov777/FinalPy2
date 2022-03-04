@@ -14,6 +14,10 @@ You need to download all things that were shown in the requirements
 and you need to download the repository of a program from Github.
 
 Django, Pillow, Tensorflow-cpu, numpy, django-heroku, whitenoise, gunicorn
+# Team SE2008
+### Asanuly Alikhan 
+### Malikov Alan
+### Kurmangali Sanzhar 
 # Usage
 ``` bash
 python manage.py makemigrations
